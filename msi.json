@@ -1,0 +1,14 @@
+{
+  "msipipeline.tumor_fq1": "File",
+  "msipipeline.tumor_fq2": "File",
+  "msipipeline.tumor_name": "String",
+  "msipipeline.result_dir": "String",
+  "msipipeline.ref_fai": "File",
+  "msipipeline.ref_dic": "File",
+  "msipipeline.ref_fasta": "File",
+  "msipipeline.bed_file": "File? (optional)",
+  "msipipeline.normal_name": "String? (optional)",
+  "msipipeline.normal_fq1": "File? (optional)",
+  "msipipeline.normal_fq2": "File? (optional)"
+}
+
